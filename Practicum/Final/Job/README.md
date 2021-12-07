@@ -16,3 +16,13 @@ Ini diimplementasikan menggunakan Decorator Pattern.
 
 ![output](https://user-images.githubusercontent.com/72622302/144798533-77b2f9e6-5daf-4269-98f8-befa141e4f86.PNG)
 
+
+## Documentation
+
+[Documentation](https://github.com/jeeehaan/course-apl/tree/master/Practicum/Final/javadoc)
+
+
+## Authors
+
+- [@Jessy Hanifiah](https://www.github.com/jeeehaan) - 1908107010044
+
