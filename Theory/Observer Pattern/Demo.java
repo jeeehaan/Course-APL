@@ -12,9 +12,9 @@ public class Demo {
 		
 		KRSOnline.setPassword("abc123");
 		System.out.println("\n----------------------------------------");
-		KRSOnline.removeObserver(s);
-		KRSOnline.setPassword("xyz456");
-		System.out.println("\n----------------------------------------");
+		// KRSOnline.removeObserver(s);
+		// KRSOnline.setPassword("xyz456");
+		// System.out.println("\n----------------------------------------");
 
        
 	}
